@@ -35,3 +35,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 tmp
+
+# Node.js
+node_modules/
+.env
+
+# Rust/Anchor
+target/
+test-ledger/
+*.so
